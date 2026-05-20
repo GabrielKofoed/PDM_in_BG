@@ -1,0 +1,14 @@
+[project]
+name = "project"
+version = "0.1.0"
+description = "Bachelor project - neural models and learning rules"
+authors = [{name = "Gabriel"}]
+dependencies = ["nengo", "numpy"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["project*"]
