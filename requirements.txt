@@ -1,8 +1,0 @@
-nengo
-numpy
-pandas
-matplotlib
-scipy
-statsmodels
-ipykernel
-ipython
