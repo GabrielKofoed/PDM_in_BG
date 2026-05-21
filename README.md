@@ -34,7 +34,9 @@ incorporated correctly, the system will not be able to find the source files.
 Look to the scripts folder if you want to reproduce data from the thesis. Look to the notebooks
 if you want to reproduce the figures.
 You can also run your own experiments. Study the networks carefully along with the simulation builder.
+
 [!CAUTION]
+
 The generated figures depend upon a working Tex installation, such as MikTex of TeX Live.
 The notebooks will not run if you do not have Tex installed. Alternatively, remove the line 
 `use_latex_fonts()` in the beginning of each notebook. I cannot guarantee that the plots
