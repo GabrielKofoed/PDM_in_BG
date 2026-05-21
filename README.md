@@ -20,7 +20,7 @@ The model consists of:
 - a cortex-inspired preprocessing module
 - a basal ganglia action-selection circuit
 - a thalamic output stage
-- simulation tools for testing accuracy, reaction time, and pathway bias effects
+- simulation tools for testing accuracy, reaction time, and decision stability.
 
 The task uses left/right stimulus inputs with varying strength, coherence, and
 noise.
