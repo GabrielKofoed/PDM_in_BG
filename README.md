@@ -35,15 +35,14 @@ Look to the scripts folder if you want to reproduce data from the thesis. Look t
 if you want to reproduce the figures.
 You can also run your own experiments. Study the networks carefully along with the simulation builder.
 
-[!CAUTION]
-
-The generated figures depend upon a working Tex installation, such as MikTex of TeX Live.
-The notebooks will not run if you do not have Tex installed. Alternatively, remove the line 
-`use_latex_fonts()` in the beginning of each notebook. I cannot guarantee that the plots
-will look pretty, however.
-Also, if you wish to reproduce data by using the given scripts, be aware that data generation
-will take a long time. Each script can take a few hours to complete. Alternatively, the amount
-of neurons per ensemble can be reduced.
+>[!CAUTION]
+>The generated figures depend upon a working Tex installation, such as MikTex of TeX Live.
+>The notebooks will not run if you do not have Tex installed. Alternatively, remove the line 
+>`use_latex_fonts()` in the beginning of each notebook. I cannot guarantee that the plots
+>will look pretty, however.
+>Also, if you wish to reproduce data by using the given scripts, be aware that data generation
+>will take a long time. Each script can take a few hours to complete. Alternatively, the amount
+>of neurons per ensemble can be reduced.
 
 ## Repository structure
 
